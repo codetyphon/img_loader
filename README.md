@@ -6,7 +6,7 @@
 使用方法：
 
 ```
-<img low_src="http://7vzsbb.com1.z0.glb.clouddn.com/860cd73265406be979b065a985c9a6ec.jpg?imageMogr/v2/thumbnail/50x50" middle_src="http://7vzsbb.com1.z0.glb.clouddn.com/860cd73265406be979b065a985c9a6ec.jpg?imageMogr/v2/thumbnail/100x100" high_src="http://7vzsbb.com1.z0.glb.clouddn.com/860cd73265406be979b065a985c9a6ec.jpg?imageMogr/v2/thumbnail/600x600" class="imgloader">
+<img class="imgloader" low_src="50x50.png" middle_src="100x100.png" high_src="600x600.png" >
 ```
 
 ```
