@@ -1,8 +1,6 @@
 # jquery.imgloader.js
-图片从 low（低像素） 到 high （高像素） 的动态载入
 
-
-
+图片从 low（低像素） 到 middle（中像素）再到 high （高像素） 的动态载入
 
 使用方法：
 
